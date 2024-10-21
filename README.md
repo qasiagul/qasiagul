@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
      <a href="https://www.linkedin.com/in/qasia-gulriaz-4317012b9/">
-    <img src="https://img.shields.io/badge/Linked-dark-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Linked-darkblue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
